@@ -5,7 +5,7 @@
 - [Objectifs](#Objectifs)
 - [Technologies Utilisées](#technologies-utilisées)
 - [Fonctionnalités](#fonctionnalités)
-- [Commandes de jeu](#commandes-de-jeu)
+- [Commandes du jeu](#commandes-du-jeu)
 - [Équipe](#équipe)
 
 ## Description
