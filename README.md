@@ -4,8 +4,8 @@
 - [Description](#description)
 - [Objectifs](#Objectifs)
 - [Technologies Utilisées](#technologies-utilisées)
-- [Fonctionnalités](#fonctionnalites)
-- [Équipe](#equipe)
+- [Fonctionnalités](#fonctionnalités)
+- [Équipe](#équipe)
 
 ## Description
 Le but de ce projet était de crée un jeu (platformer) sous Unity pour apprendre les bases du C# orienté Unity et Unity lui même.
